@@ -3,7 +3,6 @@
   "name": "donghualand",
   "compatibility_date": "2024-01-01",
   "pages_build_output_dir": "./dist",
- "main": "src/index.ts",
   "compatibility_flags": ["nodejs_compat"],
 
   // D1 Database - donghualand-production
